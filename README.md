@@ -17,9 +17,7 @@ To run this script first Clone the git repo https://github.com/vidya13/Automatio
 
 
  
-Go to that folder and run the below commands
-
-   Bundle Install and then run the below to execute test
+Go to that folder and run `Bundle Install' and then run the below to execute test
 
    rspec /Users/vidya.narasimhan/vidya/Automation/spec/feature/stepdefinition/test.rb'
    
