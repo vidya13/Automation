@@ -14,8 +14,12 @@ This test creates ANZ(NZ) bank account to test org.
 # Testing
 
 To run this script first Clone the git repo https://github.com/vidya13/Automation
+
+
  
-Go to that folder and run the below command
+Go to that folder and run the below commands
+
+   Bundle Install and then run the below to execute test
 
    rspec /Users/vidya.narasimhan/vidya/Automation/spec/feature/stepdefinition/test.rb'
    
